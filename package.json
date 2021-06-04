@@ -12,7 +12,7 @@
   "devDependencies": {
     "@textlint-ja/textlint-rule-morpheme-match": "^2.0.0",
     "textlint": "^12.0.0",
-    "textlint-rule-ja-official-documents": "github:atsuyaw/textlint-rule-ja-official-documents",
+    "textlint-rule-ja-official-documents": "git+https://github.com/atsuyaw/textlint-rule-ja-official-documents.git",
     "textlint-rule-preset-ja-engineering-paper": "^1.0.2",
     "textlint-rule-preset-ja-technical-writing": "^6.0.0",
     "textlint-rule-prh": "^5.3.0",

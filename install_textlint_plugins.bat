@@ -1,18 +1,19 @@
 echo off
-chcp 65001
+chcp 932
+color 1f
 echo.
 echo ===========
 echo.
-echo textlint-installer4ja
+echo textlint Installer
 echo by @atsuyaw
 echo.
 echo ===========
 echo.
-echo ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã‚’ä¸­æ­¢ã™ã‚‹ã«ã¯ã“ã®ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã‚’çµ‚äº†ã—ã¦ãã ã•ã„ã€‚
+echo ƒCƒ“ƒXƒg[ƒ‹‚ð’†Ž~‚·‚é‚É‚Í‚±‚ÌƒEƒBƒ“ƒhƒE‚ðI—¹‚µ‚Ä‚­‚¾‚³‚¢B
 echo To cancel setup, please close this window now.
-echo äº‹å‰ã«node.jsãŒã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã•ã‚Œã¦ã„ã‚‹ã“ã¨ã‚’ç¢ºèªã—ã¦ãã ã•ã„ã€‚
+echo Ž–‘O‚Énode.js‚ªƒCƒ“ƒXƒg[ƒ‹‚³‚ê‚Ä‚¢‚é‚±‚Æ‚ðŠm”F‚µ‚Ä‚­‚¾‚³‚¢B
 echo node
-echo ã¯èªè­˜ã•ã‚Œã¦ã„ã¾ã›ã‚“ã¨ã„ã†ã‚¨ãƒ©ãƒ¼ãŒå‡ºã¾ã™ã€‚
+echo ‚Í”FŽ¯‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ‚Æ‚¢‚¤ƒGƒ‰[‚ªo‚Ü‚·B
 echo Before run this installer, please confirm node.js is installed.
 echo.
 pause
